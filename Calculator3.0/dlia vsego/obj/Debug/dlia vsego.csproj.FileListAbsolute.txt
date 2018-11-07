@@ -1,0 +1,7 @@
+C:\Users\accipiter\source\repos\dlia vsego\dlia vsego\bin\Debug\dlia vsego.exe.config
+C:\Users\accipiter\source\repos\dlia vsego\dlia vsego\bin\Debug\dlia vsego.exe
+C:\Users\accipiter\source\repos\dlia vsego\dlia vsego\bin\Debug\dlia vsego.pdb
+C:\Users\accipiter\source\repos\dlia vsego\dlia vsego\obj\Debug\dlia vsego.csprojAssemblyReference.cache
+C:\Users\accipiter\source\repos\dlia vsego\dlia vsego\obj\Debug\dlia vsego.csproj.CoreCompileInputs.cache
+C:\Users\accipiter\source\repos\dlia vsego\dlia vsego\obj\Debug\dlia vsego.exe
+C:\Users\accipiter\source\repos\dlia vsego\dlia vsego\obj\Debug\dlia vsego.pdb

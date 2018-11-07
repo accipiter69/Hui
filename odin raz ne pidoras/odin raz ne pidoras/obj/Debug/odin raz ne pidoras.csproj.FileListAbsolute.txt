@@ -1,0 +1,7 @@
+c:\users\accipiter\source\repos\odin raz ne pidoras\odin raz ne pidoras\bin\Debug\odin raz ne pidoras.exe.config
+c:\users\accipiter\source\repos\odin raz ne pidoras\odin raz ne pidoras\bin\Debug\odin raz ne pidoras.exe
+c:\users\accipiter\source\repos\odin raz ne pidoras\odin raz ne pidoras\bin\Debug\odin raz ne pidoras.pdb
+c:\users\accipiter\source\repos\odin raz ne pidoras\odin raz ne pidoras\obj\Debug\odin raz ne pidoras.csprojAssemblyReference.cache
+c:\users\accipiter\source\repos\odin raz ne pidoras\odin raz ne pidoras\obj\Debug\odin raz ne pidoras.csproj.CoreCompileInputs.cache
+c:\users\accipiter\source\repos\odin raz ne pidoras\odin raz ne pidoras\obj\Debug\odin raz ne pidoras.exe
+c:\users\accipiter\source\repos\odin raz ne pidoras\odin raz ne pidoras\obj\Debug\odin raz ne pidoras.pdb
