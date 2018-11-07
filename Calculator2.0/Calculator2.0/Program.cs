@@ -11,8 +11,8 @@ namespace Calculator2._0
         static void Main(string[] args)
         {
 
-            string i = "да";
-            while (i == "да")
+            string i = "не";
+            while (i == "не")
             {
                 Console.Write("Введите число 1: ");
                 double a = Convert.ToDouble(Console.ReadLine());
